@@ -10,3 +10,4 @@ https://safi.me.uk/typewriterjs/
 
 creamon main.js
 
+creamos un card de testimonios
